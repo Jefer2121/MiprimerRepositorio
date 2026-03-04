@@ -12,8 +12,9 @@ Algoritmo bucle
 	
 	Mientras  contador < numeroEntrada // falso  //null 77 unfined //nome
 		anterior = resultado
-		resultado = contador + anterior
 		contador = contador + 1
+		resultado = contador + anterior
+		
 		
 		Escribir  "resultado es ", contador , " + ", anterior, "= ", resultado
 	FinMientras
