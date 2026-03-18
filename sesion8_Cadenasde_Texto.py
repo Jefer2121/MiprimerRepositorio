@@ -60,3 +60,9 @@ coro = "piribiri_ban_ban"
 
 quieroSololetras = solo_letras.isalpha()
 print(quieroSololetras)
+
+## numeros y letras 
+print("numeros y letras")
+numeros_letras = nombre + numero
+evaluarTexto = numeros_letras.isalnum()
+print(evaluarTexto)
