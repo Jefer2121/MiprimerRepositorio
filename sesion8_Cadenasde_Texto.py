@@ -36,3 +36,8 @@ cancion_minusculas = cancion. lower()
 print(cancion_minusculas)
 
 ## tiene que ingresar 100 nombres en mayusculas
+
+## verificar que solo sean numeros
+print("verificar que solo sean numeros")
+solo_numeros = numero.isdigit()
+print(solo_numeros)
