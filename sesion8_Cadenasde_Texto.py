@@ -36,13 +36,6 @@ cancion_minusculas = cancion. lower()
 print(cancion_minusculas)
 
 ## tiene que ingresar 100 nombres en mayusculas
-<<<<<<< HEAD
-
-## verificar que solo sean numeros
-print("verificar que solo sean numeros")
-solo_numeros = numero.isdigit()
-print(solo_numeros)
-=======
 mensaje = "hola kace progamando o que hace" 
 ## Capitalize  a que la primera letra de cada palabra sea mayusculas
 mensajeCorrecto = mensaje.capitalize()
@@ -73,4 +66,3 @@ print("numeros y letras")
 numeros_letras = nombre + numero
 evaluarTexto = numeros_letras.isalnum()
 print(evaluarTexto)
->>>>>>> upperCaseLowerCase
